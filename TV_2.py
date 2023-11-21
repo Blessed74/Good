@@ -1,6 +1,6 @@
 
 class TV:
-    channels = ['ORT','RTR','SPAS','RENTV']
+    channels = ['ORT','RTR2','SPAS','RENTV']
     
     def __init__(self, name):
         self.name=name
